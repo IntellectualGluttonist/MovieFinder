@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+@theme {
+  --color-push-purple: #9f7aea;
+}
